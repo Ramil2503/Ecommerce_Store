@@ -1,3 +1,5 @@
+This is a Next.js ecommerce project, deploy of which you can find here: ecommerce-store-ramil2503.vercel.app/. As a cms (content management system) I used Sanity. Here you can add or delete products, change their desciption and images, change their price, add discount price, and so on.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
